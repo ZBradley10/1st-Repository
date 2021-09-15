@@ -11,12 +11,12 @@ name = input("What is your name? ")
 print("Hello {}!".format(name))
 
 print("How many companions do you have?")
-companions = 0
+companions = 3
 
 # Add your input code here
 
 print("Where do you want to go?")
-planet = ""
+planet = "Mars"
 
 # Add your code here
 
